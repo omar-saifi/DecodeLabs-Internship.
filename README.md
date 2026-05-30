@@ -22,7 +22,6 @@ This notebook provides a comprehensive end-to-end data science workflow for anal
 ```
 internship/
 ├── DATA_SCIENCE_Tasks.ipynb    # Main analysis notebook
-├── data.xlsx                    # Input dataset (required)
 └── README.md                    # This file
 ```
 
